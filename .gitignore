@@ -4,3 +4,7 @@ dist/
 
 __pycache__/
 .ipynb_checkpoints/
+.venv
+inputs
+results
+weights
